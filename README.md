@@ -5,7 +5,7 @@
 
 Project Minja Axelsson and Soumya Banerjee
 
-Using science fiction to reconceptualize AI
+Using science fiction to reconceptualize AI using Large-Language Models (LLMs).
 
 ## Installation
 
