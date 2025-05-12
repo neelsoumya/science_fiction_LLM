@@ -41,6 +41,8 @@ You can then execute the following notebooks in Github codespaces or Google Cola
 `.txt` files have logs for the output of LLMs
 
 
+`simple_agent_ag2.ipynb`: Simple agent to call OpenAI and ask it to re-envision AI repeatedly
+
 ## Acknowledgements
 
 Accelerate Programme for Scientific Discovery
