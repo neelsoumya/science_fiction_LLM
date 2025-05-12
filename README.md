@@ -45,6 +45,10 @@ You can then execute the following notebooks in Github codespaces or Google Cola
 
 `deep_research_agent_ag2.ipynb`: DeepResearch agent to re-envision AI
 
+`deep_research_agent_ag2_lifeaswedonotknowit.ipynb`: DeepResearch agent to re-envision life as we do not know it
+
+https://github.com/neelsoumya/science_fiction_LLM/blob/main/deep_research_agent_ag2_lifeaswedonotknowit.ipynb
+
 ## Acknowledgements
 
 Accelerate Programme for Scientific Discovery
