@@ -43,6 +43,8 @@ You can then execute the following notebooks in Github codespaces or Google Cola
 
 `simple_agent_ag2.ipynb`: Simple agent to call OpenAI and ask it to re-envision AI repeatedly
 
+`deep_research_agent_ag2.ipynb`: DeepResearch agent to re-envision AI
+
 ## Acknowledgements
 
 Accelerate Programme for Scientific Discovery
