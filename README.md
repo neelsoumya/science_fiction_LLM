@@ -3,9 +3,7 @@
 
 ## Introduction
 
-Project Minja Axelsson and Soumya Banerjee
-
-Using science fiction to reconceptualize AI using Large-Language Models (LLMs).
+Using science fiction to reconceptualize AI and superintelligence using Large-Language Models (LLMs).
 
 ## Installation
 
@@ -48,6 +46,13 @@ You can then execute the following notebooks in Github codespaces or Google Cola
 `deep_research_agent_ag2_lifeaswedonotknowit.ipynb`: DeepResearch agent to re-envision life as we do not know it
 
 https://github.com/neelsoumya/science_fiction_LLM/blob/main/deep_research_agent_ag2_lifeaswedonotknowit.ipynb
+
+## Citation
+
+Re-Envisioning Superintelligence using Generative AI and Science Fiction, First International Superintelligence Conference (SiC25), 2025
+
+https://github.com/neelsoumya/paper_preprints/blob/master/AI_scifi_superintelligence.pdf
+
 
 ## Acknowledgements
 
